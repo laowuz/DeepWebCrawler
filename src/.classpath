@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="testsrc"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/Workspaces/EclipseWorkspace/DWIM/externals/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/EclipseWorkspace/DWIM/externals/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/EclipseWorkspace/DWIM/externals/commons-lang-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/EclipseWorkspace/DWIM/externals/filterbuilder.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/EclipseWorkspace/DWIM/externals/flanagan.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/EclipseWorkspace/DWIM/externals/htmllexer.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/EclipseWorkspace/DWIM/externals/htmlparser.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/EclipseWorkspace/DWIM/externals/ictclass4j.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/EclipseWorkspace/DWIM/externals/jtidy.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/EclipseWorkspace/DWIM/externals/log4j-1.2.9.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/EclipseWorkspace/DWIM/externals/lucene-core-2.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/EclipseWorkspace/DWIM/externals/lukeall-0.9.9.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/EclipseWorkspace/DWIM/externals/org.apache.commons.el_1.0.0.v200706111724.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/EclipseWorkspace/DWIM/externals/org.apache.commons.logging_1.0.4.v200706111724.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/EclipseWorkspace/DWIM/externals/sitecapturer.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/EclipseWorkspace/DWIM/externals/stanford-postagger.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/EclipseWorkspace/DWIM/externals/thumbelina.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/EclipseWorkspace/DWIM/externals/weka.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
